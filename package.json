@@ -1,0 +1,31 @@
+{
+  "name": "berkerserker-bot-3-pot",
+  "version": "1.0.0",
+  "description": "Discord bot for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkerser/berkerserker-bot-3-pot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "berkerser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berkerser/berkerserker-bot-3-pot/issues"
+  },
+  "homepage": "https://github.com/berkerser/berkerserker-bot-3-pot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "eslint": "^8.56.0"
+  }
+}
