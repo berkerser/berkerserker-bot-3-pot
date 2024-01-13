@@ -131,3 +131,6 @@ dist
 
 # eslint
 .eslintrc.json
+
+#Unnecessary VSCode Files
+.vscode
